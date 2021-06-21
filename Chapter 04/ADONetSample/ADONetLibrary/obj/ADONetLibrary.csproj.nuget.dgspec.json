@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 04/ADONetSample/ADONetLibrary/ADONetLibrary.csproj": {}
+  },
+  "projects": {
+    "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 04/ADONetSample/ADONetLibrary/ADONetLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 04/ADONetSample/ADONetLibrary/ADONetLibrary.csproj",
+        "projectName": "ADONetLibrary",
+        "projectPath": "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 04/ADONetSample/ADONetLibrary/ADONetLibrary.csproj",
+        "packagesPath": "/Users/francisconieves/.nuget/packages/",
+        "outputPath": "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 04/ADONetSample/ADONetLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/francisconieves/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.Odbc": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.114.4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

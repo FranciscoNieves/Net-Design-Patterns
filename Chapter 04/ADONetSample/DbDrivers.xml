@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<entries>
+  <entry key ="SQLITE" value="ADONetLibrary.SQLiteDbFactory"/>
+  <entry key="SQLSERVER" value="ADONetLibrary.SQLServerDbFactory"/>
+  <entry key="ODBC" value ="ADONetLibrary.ODbcDbFactory"/>
+</entries>

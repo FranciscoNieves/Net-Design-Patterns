@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{ECA26474-6D07-4E72-A2E9-0066ADEBB852}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ADONetLibrary/DbEngineAdapter.cs">
+    <Files>
+      <File FileName="ADONetLibrary/IDbEngineAdapter.cs" Line="14" Column="1" />
+      <File FileName="ADONetLibrary/DbEngineAdapter.cs" Line="9" Column="55" />
+      <File FileName="ADONetClientApp/Program.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ADONetSample" expanded="True">
+            <Node name="ADONetClientApp" expanded="True" />
+            <Node name="ADONetLibrary" expanded="True">
+              <Node name="DbEngineAdapter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ADONetClientApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 04/ADONetSample/ADONetClientApp/Program.cs" relfile="ADONetClientApp/Program.cs" line="19" column="1" />
+      <Breakpoint file="/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 04/ADONetSample/ADONetLibrary/DbEngineAdapter.cs" relfile="ADONetLibrary/DbEngineAdapter.cs" line="117" column="1" />
+      <Breakpoint file="/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 04/ADONetSample/ADONetClientApp/Program.cs" relfile="ADONetClientApp/Program.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

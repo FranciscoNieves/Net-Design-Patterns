@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 03/LoggingApplication/LogConsoleTestApp/LogConsoleTestApp.csproj": {}
+  },
+  "projects": {
+    "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 03/LoggingApplication/LogConsoleTestApp/LogConsoleTestApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 03/LoggingApplication/LogConsoleTestApp/LogConsoleTestApp.csproj",
+        "projectName": "LogConsoleTestApp",
+        "projectPath": "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 03/LoggingApplication/LogConsoleTestApp/LogConsoleTestApp.csproj",
+        "packagesPath": "/Users/francisconieves/.nuget/packages/",
+        "outputPath": "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 03/LoggingApplication/LogConsoleTestApp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/francisconieves/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 03/LoggingApplication/LoggingLibrary/LogLibrary.csproj": {
+                "projectPath": "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 03/LoggingApplication/LoggingLibrary/LogLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 03/LoggingApplication/LoggingLibrary/LogLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 03/LoggingApplication/LoggingLibrary/LogLibrary.csproj",
+        "projectName": "LogLibrary",
+        "projectPath": "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 03/LoggingApplication/LoggingLibrary/LogLibrary.csproj",
+        "packagesPath": "/Users/francisconieves/.nuget/packages/",
+        "outputPath": "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 03/LoggingApplication/LoggingLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/francisconieves/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.114.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
