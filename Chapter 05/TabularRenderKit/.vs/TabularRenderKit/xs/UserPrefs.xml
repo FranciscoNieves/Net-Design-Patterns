@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{46C5BA9C-03F3-4506-86C6-87D1463780DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleVisitor/Evaluator.cs">
+    <Files>
+      <File FileName="SimpleVisitor/Program.cs" Line="1" Column="1" />
+      <File FileName="SimpleVisitor/Evaluator.cs" Line="105" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TabularRenderKit" expanded="True">
+            <Node name="SimpleVisitor" expanded="True">
+              <Node name="Evaluator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SimpleVisitor FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
