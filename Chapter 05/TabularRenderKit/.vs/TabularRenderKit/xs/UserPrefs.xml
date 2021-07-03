@@ -1,24 +1,40 @@
-﻿<Properties StartupConfiguration="{46C5BA9C-03F3-4506-86C6-87D1463780DB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleVisitor/Evaluator.cs">
+﻿<Properties StartupConfiguration="{EEE47DE6-25DB-4C0A-AAAA-217557977324}|Default">
+  <MonoDevelop.Ide.ItemProperties.TabularRenderKitClient FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TabularRenderKitClient/Program.cs">
     <Files>
-      <File FileName="SimpleVisitor/Program.cs" Line="1" Column="1" />
-      <File FileName="SimpleVisitor/Evaluator.cs" Line="105" Column="25" />
+      <File FileName="SimpleVisitor/Program.cs" Line="35" Column="1" />
+      <File FileName="SimpleVisitor/Evaluator.cs" Line="292" Column="1" />
+      <File FileName="TabularRenderKit/Class1.cs" Line="16" Column="34" />
+      <File FileName="TabularRenderKit/TDocument.cs" Line="23" Column="31" />
+      <File FileName="TabularRenderKit/TDocumentTable.cs" Line="11" Column="44" />
+      <File FileName="TabularRenderKit/TDocumentTableRow.cs" Line="15" Column="1" />
+      <File FileName="TabularRenderKit/TDocumentTableCell.cs" Line="20" Column="25" />
+      <File FileName="TabularRenderKit/TDocumentText.cs" Line="17" Column="10" />
+      <File FileName="TabularRenderKit/IDocumentVisitor.cs" Line="12" Column="1" />
+      <File FileName="TabularRenderKit/PDFVisitor.cs" Line="97" Column="2" />
+      <File FileName="TabularRenderKit/HTMLVisitor.cs" Line="182" Column="24" />
+      <File FileName="TabularRenderKitClient/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TabularRenderKit" expanded="True">
-            <Node name="SimpleVisitor" expanded="True">
-              <Node name="Evaluator.cs" selected="True" />
+            <Node name="SimpleVisitor" expanded="True" />
+            <Node name="TabularRenderKit" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="TabularRenderKitClient" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.SimpleVisitor FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SimpleVisitor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TabularRenderKit FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

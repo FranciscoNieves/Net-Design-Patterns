@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "b693/XIVOKedwUZp4KFnwmAkSIDb5wy0BdH2NmJLNoEvX4G+GK2P4xk5aBE3sVNXMzXOMW1BXvPkmSiQAefm+w==",
+  "success": true,
+  "projectFilePath": "/Users/francisconieves/Documents/Projects/Net Design Patterns/Chapter 05/TabularRenderKit/TabularRenderKit/TabularRenderKit.csproj",
+  "expectedPackageFiles": [
+    "/Users/francisconieves/.nuget/packages/bouncycastle/1.8.6.1/bouncycastle.1.8.6.1.nupkg.sha512",
+    "/Users/francisconieves/.nuget/packages/itextsharp/5.5.13.2/itextsharp.5.5.13.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BouncyCastle 1.8.6.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'iTextSharp 5.5.13.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
